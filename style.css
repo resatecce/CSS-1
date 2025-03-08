@@ -1,0 +1,29 @@
+.yan-yana
+{
+  display: flex; /* Yan yana dizilim için */
+  gap: 154px; /* Elemanlar arasında boşluk için opsiyonel */
+  color: #d727d5;
+  font-size: 25px;
+  text-decoration: underline;
+  
+}
+
+.liste{
+  color: red;
+  text-align: center;
+  margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center; 
+        height: 100vh; 
+     
+
+}
+
+.liste img {
+  display: block;
+  max-width: 150px;
+  height: auto;
+  margin-top: 10px; 
+  border: 2px solid #ccc; 
+  border-radius: 8px; 
